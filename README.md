@@ -1,7 +1,7 @@
 # Caesar Cipher Encoder/Decoder with ASCII Art Display
 
 A visually engaging Python-based tool that allows users to encode or decode texts using the Caesar cipher method and displays the results in a captivating ASCII art format.
-
+![caesar_cipher.png](caesar_cipher.png)
 ## Usage
 
 1. Run the script.
