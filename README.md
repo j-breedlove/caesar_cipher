@@ -25,4 +25,22 @@ A visually engaging Python-based tool that allows users to encode or decode text
 ## Installation
 
 To use this tool, ensure you have `pyfiglet` installed:
-
+1. Clone the repository:
+   ```
+   git clone https://github.com/j-breedlove/caesar_cipher.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd caesar_cipher
+   ```
+3. Create environment and Install required packages:
+   ```
+   pip install pipenv
+   pipenv install
+   pipenv shell
+   pipenv install pyfiglet
+   ```
+4. Run the application:
+   ```
+   python main.py
+   ```
